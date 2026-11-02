@@ -1,0 +1,13 @@
+{
+  "name": "pacu-jalur-midtrans-server",
+  "version": "1.0.0",
+  "description": "Backend Payment Gateway Midtrans Snap untuk Pacu Jalur Tepian Narosa 2027",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "author": "Pacu Jalur Dev Team",
+  "license": "ISC"
+}
+
